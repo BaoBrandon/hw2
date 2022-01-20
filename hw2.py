@@ -1,2 +1,3 @@
-print("Hello world! My favorite movie is Prometheus")
+print("Hello world! My favorite movie is the Avatar")
+
 
